@@ -363,5 +363,24 @@ return {
         property_expression_names = {
             elevation = '0_17-starting-plateau'
         }
+    },
+    k2_none = {
+        autoplace_controls = {
+            imersite = {
+                frequency = 1,
+                richness = 1,
+                size = 0
+            },
+            ['rare-metals'] = {
+                frequency = 1,
+                richness = 1,
+                size = 0
+            },
+            ['mineral-water'] = {
+                frequency = 1,
+                richness = 1,
+                size = 0
+            }
+        }
     }
 }
